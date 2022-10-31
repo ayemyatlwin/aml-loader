@@ -1,0 +1,22 @@
+{
+  "name": "show-loader-lib",
+  "version": "1.0.0",
+  "description": "testing lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayemyatlwin/aml-loader.git"
+  },
+  "keywords": [
+    "nmh"
+  ],
+  "author": "ayemyatlwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayemyatlwin/aml-loader/issues"
+  },
+  "homepage": "https://github.com/ayemyatlwin/aml-loader#readme"
+}
